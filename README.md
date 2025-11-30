@@ -1,4 +1,4 @@
-# 🫐 About me
+## 🫐 About me
 
 - **Age:** 17 years old
 - **Location:** Russia
@@ -7,7 +7,7 @@
   - Russian (Native)
   - English (C1 Level)
 
-# Hobbies & Interests
+## Hobbies & Interests
 - Crafts
 - Writing and reading poetry
 - Knitting
@@ -17,7 +17,7 @@
 
 ---
 
-# 🚫 DNI (Do Not Interact)
+## 🚫 DNI (Do Not Interact)
 
 **Please respect these boundaries. Thank you!**
 
@@ -30,31 +30,31 @@
 
 ---
 
-# 💤 My Fandoms
+## 💤 My Fandoms
 
-## Anime
+### Anime
 - Sailor Moon
 - The Owl House
 - Howl's Moving Castle
 - Ponyo
 - Kiki's Delivery Service
 
-## Games
+### Games
 - DND
 - Date Everything
 
-## Web Projects
+### Web Projects
 - Alnst
 - My Student Spirit
 
 ---
 
-# 🫂 Pony Town
+## 🫂 Pony Town
 
 ### Main Skin
 - **Character:** Luka from ALNST
 
-### Status Indicators
+
 | Status | Meaning |
 |--------|---------|
 | 🌙 | AFK - Can pay a little attention to chat |
