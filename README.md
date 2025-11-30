@@ -1,4 +1,4 @@
-## 🧿 About me
+## ꒰🧵꒱ About me
 
 - **Age:** 17 years old
 - **Location:** Russia
@@ -7,7 +7,7 @@
   - Russian (Native)
   - English (C1 Level)
 
-## Hobbies & Interests
+## Hobbies
 - Crafts
 - Writing and reading poetry
 - Knitting
@@ -30,7 +30,7 @@
 
 ---
 
-## 💤 My Fandoms
+## ꒰💤꒱ My Fandoms
 
 ### Anime
 - Sailor Moon
@@ -49,7 +49,7 @@
 
 ---
 
-## 🫂 Pony Town
+## ꒰🍮꒱ Pony Town
 
 ### Main Skin
 - **Character:** Luka from ALNST
