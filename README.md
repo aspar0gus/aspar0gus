@@ -1,16 +1,33 @@
-## Hi there 👋
+```markdown
+💫 **About Me**
+17 • Russia • Final school year  
+**Languages:** Russian (native), English (C1)  
+**Hobbies:** Crafts, poetry, knitting, cooking, subtitle making, song translations
 
-<!--
-**aspar0gus/aspar0gus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚫 **DNI**
+• Pedophiles/Zoophiles/MAPs  
+• Bigots (homophobes, transphobes, racists)  
+• Ragebaiters & boundary-pushers  
+*Please respect this. Thank you!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💤 **Fandoms**
+**Anime:** Sailor Moon, The Owl House, Ghibli films  
+**Games:** DND, Date Everything  
+**Web:** ALNST, My Student Spirit
+
+---
+
+🎠 **Pony Town**
+**Main skin:** Luka (ALNST)
+
+| Status | Meaning |
+|--------|---------|
+| 🌙 | AFK - minimal attention |
+| ⛔ | AFK - unavailable |
+| 🟢 | Online |
+| 🎭 | Open to chat (if not on DNI) |
+```
