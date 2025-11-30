@@ -7,7 +7,7 @@
   - Russian (Native)
   - English (C1 Level)
 
-## Hobbies
+### Hobbies
 - Crafts
 - Writing and reading poetry
 - Knitting
