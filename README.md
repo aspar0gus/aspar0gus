@@ -1,33 +1,63 @@
-```markdown
-💫 **About Me**
-17 • Russia • Final school year  
-**Languages:** Russian (native), English (C1)  
-**Hobbies:** Crafts, poetry, knitting, cooking, subtitle making, song translations
+# 🫐 About me
+
+- **Age:** 17 years old
+- **Location:** Russia
+- **Education:** Final year of school
+- **Languages:**
+  - Russian (Native)
+  - English (C1 Level)
+
+# Hobbies & Interests
+- Crafts
+- Writing and reading poetry
+- Knitting
+- Cooking
+- Subtitle making
+- Song translations
 
 ---
 
-🚫 **DNI**
-• Pedophiles/Zoophiles/MAPs  
-• Bigots (homophobes, transphobes, racists)  
-• Ragebaiters & boundary-pushers  
-*Please respect this. Thank you!*
+# 🚫 DNI (Do Not Interact)
+
+**Please respect these boundaries. Thank you!**
+
+### Zero Tolerance For:
+- Pedophiles, Zoophiles, MAPs
+- Homophobes, Transphobes, Racists
+- Anyone with bigoted views
+- People who enjoy ragebaiting
+- Those deliberately ignoring others' comfort levels
 
 ---
 
-💤 **Fandoms**
-**Anime:** Sailor Moon, The Owl House, Ghibli films  
-**Games:** DND, Date Everything  
-**Web:** ALNST, My Student Spirit
+# 💤 My Fandoms
+
+## Anime
+- Sailor Moon
+- The Owl House
+- Howl's Moving Castle
+- Ponyo
+- Kiki's Delivery Service
+
+## Games
+- DND
+- Date Everything
+
+## Web Projects
+- Alnst
+- My Student Spirit
 
 ---
 
-🎠 **Pony Town**
-**Main skin:** Luka (ALNST)
+# 🫂 Pony Town
 
+### Main Skin
+- **Character:** Luka from ALNST
+
+### Status Indicators
 | Status | Meaning |
 |--------|---------|
-| 🌙 | AFK - minimal attention |
-| ⛔ | AFK - unavailable |
+| 🌙 | AFK - Can pay a little attention to chat |
+| ⛔ | AFK - Cannot look at screen at all |
 | 🟢 | Online |
-| 🎭 | Open to chat (if not on DNI) |
-```
+| 🎭 | Online - Approach if you're not on DNI list | # 💫 About Me
