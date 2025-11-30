@@ -1,4 +1,4 @@
-## 🫐 About me
+## 🧿 About me
 
 - **Age:** 17 years old
 - **Location:** Russia
