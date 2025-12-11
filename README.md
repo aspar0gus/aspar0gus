@@ -5,7 +5,7 @@
 - **Education:** Final year of school
 - **Languages:**
   - Russian (Native)
-  - English (C1 Level)
+  - English (C1)
 
 ### Hobbies
 - Crafts
@@ -34,9 +34,8 @@
 
 ### Anime
 - Sailor Moon
-- The Owl House
 - Howl's Moving Castle
-- Ponyo
+- Ponyo on a cliff
 - Kiki's Delivery Service
 
 ### Games
@@ -51,8 +50,8 @@
 
 ## ꒰🍮꒱ Pony Town
 
-### Main Skin
-- **Character:** Luka from ALNST
+### Most frequently used skins
+– Luka from ALNST –
 
 
 | Status | Meaning |
