@@ -51,7 +51,9 @@
 ## ꒰🍮꒱ Pony Town
 
 ### Most frequently used skins
-– Luka from ALNST –
+- Luka/Mizi from ALNST 
+- Cady Heron from Mean Girls
+- Cooking mama (yes)
 
 
 | Status | Meaning |
