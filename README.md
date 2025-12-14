@@ -30,30 +30,27 @@
 
 ---
 
-## ꒰💤꒱ My Fandoms
+## ꒰💤꒱ My fandoms
 
-### Anime
 - Sailor Moon
 - Howl's Moving Castle
 - Ponyo on a cliff
 - Kiki's Delivery Service
-
-### Games
 - DND
 - Date Everything
-
-### Web Projects
 - Alnst
 - My Student Spirit
+- Dispatch
+- TADC
 
 ---
 
 ## ꒰🍮꒱ Pony Town
 
 ### Most frequently used skins
-- Luka/Mizi from ALNST 
+- Luka from ALNST 
 - Cady Heron from Mean Girls
-- Cooking mama (yes)
+- Malevola/Blondie Blazer from Dispatch
 
 
 | Status | Meaning |
