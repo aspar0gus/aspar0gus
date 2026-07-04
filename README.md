@@ -8,30 +8,16 @@
   <h1>СПАРЖА / ASPAR</h1>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
-</div>
+---
 
-<p align="center">
-  🫂 Привет! Я Спаржа (Aspar).<br>
-  🌀 ДР 25/09/2008.
-</p>
+<h4 align="center">🫂 Привет! Я Спаржа (Aspar).</h4>
+<h5 align="center">🌀 ДР 25/09/2008.</h5>
 
-<p align="center">
-  🐈 Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot
-</p>
+<h4 align="center">🐈 Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot</h4>
 
-<p align="center">
-  🌾 Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч
-</p>
+<h4 align="center">🌾 Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч</h4>
 
-<p align="center">
-  💤 Сервера: Safe Russian #1 / Safe Server
-</p>
-
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
-</div>
+<h5 align="center">💤 Сервера: Safe Russian #1 / Safe Server</h5>
 
 ---
 
@@ -39,27 +25,15 @@
   <h1>ASPAR / СПАРЖА</h1>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
-</div>
+---
 
-<p align="center">
-  🫂 Hi! I'm Aspar (Спаржа).<br>
-  🌀 Born 25/09/2008.
-</p>
+<h4 align="center">🫂 Hi! I'm Aspar (Спаржа).</h4>
+<h5 align="center">🌀 Born 25/09/2008.</h5>
 
-<p align="center">
-  🐈 Socials: Pinterest — Спаржа ПТ | Telegram bot — @Pixhorse.bot
-</p>
+<h4 align="center">🐈 Socials: Pinterest — Спаржа ПТ | Telegram bot — @Pixhorse.bot</h4>
 
-<p align="center">
-  🌾 Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch
-</p>
+<h4 align="center">🌾 Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch</h4>
 
-<p align="center">
-  💤 Servers: Safe Russian #1 / Safe Server
-</p>
+<h5 align="center">💤 Servers: Safe Russian #1 / Safe Server</h5>
 
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="footer" width="100%">
-</div>
+---
