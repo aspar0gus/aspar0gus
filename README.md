@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="banner" width="100%">
 </div>
@@ -64,4 +63,3 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="footer" width="100%">
 </div>
-```
