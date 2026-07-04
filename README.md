@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <h1 style="color: white;">СПАРЖА / ASPAR</h1>
+  <h1>СПАРЖА / ASPAR</h1>
 </div>
 
 <div align="center">
@@ -14,20 +14,20 @@
 </div>
 
 <p align="center">
-  <span style="color: #87CEEB;">🫂</span> <span style="color: #F5DEB3;">Привет! Я Спаржа (Aspar).</span><br>
-  <span style="color: #87CEEB;">🌀</span> <span style="color: #F5DEB3;">ДР 25/09/2008.</span>
+  🫂 Привет! Я Спаржа (Aspar).<br>
+  🌀 ДР 25/09/2008.
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">🐈</span> <span style="color: #F5DEB3;">Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot</span>
+  🐈 Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">🌾</span> <span style="color: #F5DEB3;">Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч</span>
+  🌾 Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">💤</span> <span style="color: #F5DEB3;">Сервера: Safe Russian #1 / Safe Server</span>
+  💤 Сервера: Safe Russian #1 / Safe Server
 </p>
 
 <div align="center">
@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-  <h1 style="color: white;">ASPAR / СПАРЖА</h1>
+  <h1>ASPAR / СПАРЖА</h1>
 </div>
 
 <div align="center">
@@ -45,20 +45,20 @@
 </div>
 
 <p align="center">
-  <span style="color: #87CEEB;">🫂</span> <span style="color: #F5DEB3;">Hi! I'm Aspar (Спаржа).</span><br>
-  <span style="color: #87CEEB;">🌀</span> <span style="color: #F5DEB3;">Born 25/09/2008.</span>
+  🫂 Hi! I'm Aspar (Спаржа).<br>
+  🌀 Born 25/09/2008.
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">🐈</span> <span style="color: #F5DEB3;">Socials: Pinterest — Спаржа ПТ | Telegram bot — @Pixhorse.bot</span>
+  🐈 Socials: Pinterest — Спаржа ПТ | Telegram bot — @Pixhorse.bot
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">🌾</span> <span style="color: #F5DEB3;">Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch</span>
+  🌾 Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch
 </p>
 
 <p align="center">
-  <span style="color: #87CEEB;">💤</span> <span style="color: #F5DEB3;">Servers: Safe Russian #1 / Safe Server</span>
+  💤 Servers: Safe Russian #1 / Safe Server
 </p>
 
 <div align="center">
