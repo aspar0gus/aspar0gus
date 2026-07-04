@@ -1,61 +1,67 @@
-## ꒰🧵꒱ About me
-
-- **Age:** 17 years old
-- **Location:** Russia
-- **Education:** Final year of school
-- **Languages:**
-  - Russian (Native)
-  - English (C1)
-
-### Hobbies
-- Crafts
-- Writing and reading poetry
-- Knitting
-- Cooking
-- Subtitle making
-- Song translations
+```markdown
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="banner" width="100%">
+</div>
 
 ---
 
-## 🚫 DNI (Do Not Interact)
+<div align="center">
+  <h1 style="color: white;">СПАРЖА / ASPAR</h1>
+</div>
 
-**Please respect these boundaries. Thank you!**
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
+</div>
 
-### Zero Tolerance For:
-- Pedophiles, Zoophiles, MAPs
-- Homophobes, Transphobes, Racists
-- Anyone with bigoted views
-- People who enjoy ragebaiting
-- Those deliberately ignoring others' comfort levels
+<p align="center">
+  <span style="color: #87CEEB;">🫂</span> <span style="color: #F5DEB3;">Привет! Я Спаржа (Aspar).</span><br>
+  <span style="color: #87CEEB;">🌀</span> <span style="color: #F5DEB3;">ДР 25/09/2008.</span>
+</p>
+
+<p align="center">
+  <span style="color: #87CEEB;">🐈</span> <span style="color: #F5DEB3;">Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot</span>
+</p>
+
+<p align="center">
+  <span style="color: #87CEEB;">🌾</span> <span style="color: #F5DEB3;">Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч</span>
+</p>
+
+<p align="center">
+  <span style="color: #87CEEB;">💤</span> <span style="color: #F5DEB3;">Сервера: Safe Russian #1 / Safe Server</span>
+</p>
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
+</div>
 
 ---
 
-## ꒰💤꒱ My fandoms
+<div align="center">
+  <h1 style="color: white;">ASPAR / СПАРЖА</h1>
+</div>
 
-- Sailor Moon
-- Howl's Moving Castle
-- Ponyo on a cliff
-- Kiki's Delivery Service
-- DND
-- Date Everything
-- Alnst
-- My Student Spirit
-- Dispatch
-- TADC
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="divider" width="100%">
+</div>
 
----
+<p align="center">
+  <span style="color: #87CEEB;">🫂</span> <span style="color: #F5DEB3;">Hi! I'm Aspar (Спаржа).</span><br>
+  <span style="color: #87CEEB;">🌀</span> <span style="color: #F5DEB3;">Born 25/09/2008.</span>
+</p>
 
-## ꒰🍮꒱ Pony Town
+<p align="center">
+  <span style="color: #87CEEB;">🐈</span> <span style="color: #F5DEB3;">Socials: Pinterest — Спаржа ПТ | Telegram bot — @Pixhorse.bot</span>
+</p>
 
-### Most frequently used skins
-- Luka from ALNST 
-- Cady Heron from Mean Girls
-- Malevola/Blondie Blazer from Dispatch
+<p align="center">
+  <span style="color: #87CEEB;">🌾</span> <span style="color: #F5DEB3;">Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch</span>
+</p>
 
+<p align="center">
+  <span style="color: #87CEEB;">💤</span> <span style="color: #F5DEB3;">Servers: Safe Russian #1 / Safe Server</span>
+</p>
 
-| Status | Meaning |
-|--------|---------|
-| 🌙 | AFK - Can pay a little attention to chat |
-| ⛔ | AFK - Cannot look at screen at all |
-| 🟢 | Online |
-| 🎭 | Online - Approach if you're not on DNI list | # 💫 About Me
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/ad/7f/2a/ad7f2a84fd5065a9f9a1b72895638e00.jpg" alt="footer" width="100%">
+</div>
+```
