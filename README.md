@@ -5,24 +5,24 @@
 ---
 
 <div align="center">
-  <h1>СПАРЖА / ASPAR</h1>
+  <h3>СПАРЖА / ASPAR</h3>
 </div>
 
 ---
 
 <h4 align="center">🫂 Привет! Я Спаржа (Aspar).</h4>
-<h5 align="center">🌀 ДР 25/09/2008.</h5>
+<h4 align="center">🌀 ДР 25/09/2008.</h4>
 
 <h4 align="center">🐈 Соцсети: Pinterest — Спаржа ПТ | Telegram-бот — @Pixhorse.bot</h4>
 
 <h4 align="center">🌾 Фандомы: Бесконечный поезд, Дружба — это чудо (MLP), Cookie Run: Kingdom, Диспатч</h4>
 
-<h5 align="center">💤 Сервера: Safe Russian #1 / Safe Server</h5>
+<h4 align="center">💤 Сервера: Safe Russian #1 / Safe Server</h4>
 
 ---
 
 <div align="center">
-  <h1>ASPAR / СПАРЖА</h1>
+  <h3>ASPAR / СПАРЖА</h3>
 </div>
 
 ---
@@ -34,6 +34,6 @@
 
 <h4 align="center">🌾 Fandoms: Infinity Train, My Little Pony (MLP), Cookie Run: Kingdom, Dispatch</h4>
 
-<h5 align="center">💤 Servers: Safe Russian #1 / Safe Server</h5>
+<h4 align="center">💤 Servers: Safe Russian #1 / Safe Server</h4>
 
 ---
